@@ -1,0 +1,7 @@
+Riesgo,Impacto,Evidencia,Mitigacion
+Fuga de datos,Alto,Posible coincidencia con datos de entrenamiento,Validacion con imagenes independientes
+Falsos negativos,Alto,ViT y EfficientNet confundieron tizón tardío con sano,Revision humana de predicciones sensibles
+Bajo rendimiento de ResNet-50,Alto,Accuracy de 32.93%,Descartar el checkpoint actual como candidato principal
+Diferencias de entorno,Medio,Uso de PyTorch y TensorFlow,Mediciones repetidas en entorno controlado
+Generalizacion limitada,Alto,Evaluacion sobre PlantVillage,Pruebas con fotografias reales
+Confianza no calibrada,Medio,Probabilidades softmax sin calibracion verificada,Analizar calibracion y establecer umbrales

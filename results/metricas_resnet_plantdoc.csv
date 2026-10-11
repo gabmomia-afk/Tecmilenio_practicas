@@ -1,0 +1,2 @@
+Modelo,Dataset,Imagenes,Accuracy,Precision,Recall,F1-score,Latencia (ms),Predicciones otras clases
+ResNet-50,PlantDoc,27,0.2962962962962963,0.48809523809523814,0.27777777777777773,0.3499245852187029,574.6888061849286,16

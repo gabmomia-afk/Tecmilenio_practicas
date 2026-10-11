@@ -1,0 +1,6 @@
+indice,etiqueta_real,pred_ViT,pred_EfficientNet,pred_ResNet,error_ViT,error_EfficientNet,error_ResNet,total_errores
+12,Tomato___Late_blight,Tomato___Early_blight,Strawberry___Leaf_scorch,Strawberry___Leaf_scorch,True,True,True,3
+15,Tomato___Late_blight,Tomato___Early_blight,Tomato___Early_blight,Tomato___Early_blight,True,True,True,3
+19,Tomato___healthy,Tomato___Leaf_Mold,Raspberry___healthy,Strawberry___healthy,True,True,True,3
+20,Tomato___healthy,Tomato___Early_blight,Tomato___Leaf_Mold,Grape___Black_rot,True,True,True,3
+26,Tomato___healthy,Tomato___Late_blight,Tomato___Tomato_mosaic_virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,True,True,True,3

@@ -1,0 +1,28 @@
+indice,ruta,etiqueta_real,prediccion,confianza,latencia_ms,correcta
+0,data/plantdoc/test/Tomato Early blight leaf/039b47d574bc4bb8a14259a1cd96a741.jpg,Tomato___Early_blight,Tomato___Early_blight,0.26318150758743286,16.97797199994966,True
+1,data/plantdoc/test/Tomato Early blight leaf/100983448.jpg,Tomato___Early_blight,Tomato___Early_blight,0.8468625545501709,16.720605999580584,True
+2,data/plantdoc/test/Tomato Early blight leaf/1234080-Early-Blight.jpg,Tomato___Early_blight,Tomato___Early_blight,0.9592776894569397,16.77243000085582,True
+3,data/plantdoc/test/Tomato Early blight leaf/Shoemaker_7068.JPG.jpg,Tomato___Early_blight,Tomato___Early_blight,0.5482953786849976,16.76241499990283,True
+4,data/plantdoc/test/Tomato Early blight leaf/bugs-and-blight-061.jpg,Tomato___Early_blight,Tomato___Early_blight,0.8644989132881165,17.108881000240217,True
+5,data/plantdoc/test/Tomato Early blight leaf/dscn3175.jpg,Tomato___Early_blight,Tomato___Early_blight,0.6602139472961426,16.84831800048414,True
+6,data/plantdoc/test/Tomato Early blight leaf/early_blight1-150x150.jpg,Tomato___Early_blight,Tomato___Early_blight,0.9705165028572083,17.193407000377192,True
+7,data/plantdoc/test/Tomato Early blight leaf/earlyblight21_.jpg,Tomato___Early_blight,Tomato___Early_blight,0.9473645687103271,16.486435999468085,True
+8,data/plantdoc/test/Tomato Early blight leaf/tomato_early-blight_01_zoom.jpg,Tomato___Early_blight,Tomato___Early_blight,0.9669252038002014,16.291155998260365,True
+9,data/plantdoc/test/Tomato leaf late blight/110822-206-Tomato-blight.jpg,Tomato___Late_blight,Tomato___Late_blight,0.984453022480011,16.089278999061207,True
+10,data/plantdoc/test/Tomato leaf late blight/18c.jpg,Tomato___Late_blight,Tomato___Late_blight,0.9779695272445679,16.103815001770272,True
+11,data/plantdoc/test/Tomato leaf late blight/636368370164094909-late-blight-15-.jpg,Tomato___Late_blight,Tomato___Late_blight,0.9844040274620056,16.03487299871631,True
+12,data/plantdoc/test/Tomato leaf late blight/70.jpg,Tomato___Late_blight,Tomato___Early_blight,0.8479494452476501,16.041393000705284,False
+13,data/plantdoc/test/Tomato leaf late blight/E%29Tomato-late-blight-foliar.jpg,Tomato___Late_blight,Tomato___Late_blight,0.9658620953559875,16.03084599992144,True
+14,data/plantdoc/test/Tomato leaf late blight/IMG_5808.jpg,Tomato___Late_blight,Tomato___Late_blight,0.8242064714431763,16.294291999656707,True
+15,data/plantdoc/test/Tomato leaf late blight/LateBlt09_06.jpg,Tomato___Late_blight,Tomato___Early_blight,0.9575127959251404,16.07140300075116,False
+16,data/plantdoc/test/Tomato leaf late blight/dsc_8148cs.jpg,Tomato___Late_blight,Tomato___Late_blight,0.9742712378501892,16.181962000700878,True
+17,data/plantdoc/test/Tomato leaf late blight/image.jpg,Tomato___Late_blight,Tomato___Late_blight,0.9709678888320923,16.076737998446333,True
+18,data/plantdoc/test/Tomato leaf late blight/late_blight_tomato_leaf_spore1x1200.jpg,Tomato___Late_blight,Tomato___Late_blight,0.9845339059829712,16.063914999904227,True
+19,data/plantdoc/test/Tomato leaf/1684.jpg,Tomato___healthy,Tomato___Leaf_Mold,0.17171692848205566,16.04562800093845,False
+20,data/plantdoc/test/Tomato leaf/2013-08-20-06.jpg,Tomato___healthy,Tomato___Early_blight,0.14768415689468384,16.30356799978472,False
+21,data/plantdoc/test/Tomato leaf/90e2c0.jpg,Tomato___healthy,Tomato___Early_blight,0.9119086861610413,16.212975000598817,False
+22,data/plantdoc/test/Tomato leaf/DSCN1015.JPG.jpg,Tomato___healthy,Tomato___Late_blight,0.6277487874031067,16.15925099940796,False
+23,data/plantdoc/test/Tomato leaf/IMG_1246.jpg,Tomato___healthy,Tomato___Late_blight,0.3588446378707886,16.184709998924518,False
+24,data/plantdoc/test/Tomato leaf/Tomato59.JPG.jpg,Tomato___healthy,Tomato___Late_blight,0.1838415414094925,16.193764000490773,False
+25,data/plantdoc/test/Tomato leaf/Tomato_leaf.jpg,Tomato___healthy,Tomato___Late_blight,0.9116798639297485,14.429543000005651,False
+26,data/plantdoc/test/Tomato leaf/main-qimg-d9c2a93f60568485c989670d9bbf703b.jpg,Tomato___healthy,Tomato___Late_blight,0.28275245428085327,14.194848999977694,False

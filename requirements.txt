@@ -1,0 +1,21 @@
+# Versiones de referencia del entorno de Google Colab (Python 3.13, GPU T4).
+# PyTorch/TensorFlow y torchvision deben instalarse con soporte CUDA compatible con Colab.
+pandas==2.2.3
+pyarrow==23.0.1
+datasets==3.6.0
+gcsfs==2025.3.0
+fsspec==2025.3.0
+transformers==5.18.0
+scikit-learn==1.6.1
+huggingface_hub
+matplotlib
+seaborn
+Pillow
+timm
+accelerate
+safetensors
+numpy
+torch
+torchvision
+tensorflow
+keras

@@ -1,0 +1,28 @@
+indice,ruta,etiqueta_real,prediccion,confianza,latencia_ms,correcta
+0,data/plantdoc/test/Tomato Early blight leaf/039b47d574bc4bb8a14259a1cd96a741.jpg,Tomato___Early_blight,Tomato___Late_blight,0.49223634600639343,410.9749010003725,False
+1,data/plantdoc/test/Tomato Early blight leaf/100983448.jpg,Tomato___Early_blight,Tomato___Early_blight,0.6585754752159119,580.7035260004341,True
+2,data/plantdoc/test/Tomato Early blight leaf/1234080-Early-Blight.jpg,Tomato___Early_blight,Tomato___Late_blight,0.3229410648345947,457.1734010005457,False
+3,data/plantdoc/test/Tomato Early blight leaf/Shoemaker_7068.JPG.jpg,Tomato___Early_blight,Strawberry___Leaf_scorch,0.3180713951587677,583.1046499988588,False
+4,data/plantdoc/test/Tomato Early blight leaf/bugs-and-blight-061.jpg,Tomato___Early_blight,Strawberry___Leaf_scorch,0.9763635396957397,976.7086840001866,False
+5,data/plantdoc/test/Tomato Early blight leaf/dscn3175.jpg,Tomato___Early_blight,Strawberry___Leaf_scorch,0.9862717390060425,1948.987515999761,False
+6,data/plantdoc/test/Tomato Early blight leaf/early_blight1-150x150.jpg,Tomato___Early_blight,Tomato___Early_blight,0.9578713178634644,1517.8436509995663,True
+7,data/plantdoc/test/Tomato Early blight leaf/earlyblight21_.jpg,Tomato___Early_blight,Grape___Black_rot,0.6538664102554321,465.1212109984044,False
+8,data/plantdoc/test/Tomato Early blight leaf/tomato_early-blight_01_zoom.jpg,Tomato___Early_blight,Tomato___Early_blight,0.8338674306869507,346.6018709987111,True
+9,data/plantdoc/test/Tomato leaf late blight/110822-206-Tomato-blight.jpg,Tomato___Late_blight,Tomato___Late_blight,0.6799813508987427,381.7255339999974,True
+10,data/plantdoc/test/Tomato leaf late blight/18c.jpg,Tomato___Late_blight,Potato___Late_blight,0.8068356513977051,349.47566200025904,False
+11,data/plantdoc/test/Tomato leaf late blight/636368370164094909-late-blight-15-.jpg,Tomato___Late_blight,Tomato___Late_blight,0.5626325607299805,346.4952969989099,True
+12,data/plantdoc/test/Tomato leaf late blight/70.jpg,Tomato___Late_blight,Strawberry___Leaf_scorch,0.8383529186248779,401.96099300010246,False
+13,data/plantdoc/test/Tomato leaf late blight/E%29Tomato-late-blight-foliar.jpg,Tomato___Late_blight,Potato___Early_blight,0.6191800832748413,349.6237999988807,False
+14,data/plantdoc/test/Tomato leaf late blight/IMG_5808.jpg,Tomato___Late_blight,Tomato___Late_blight,0.6049444079399109,460.89651200054504,True
+15,data/plantdoc/test/Tomato leaf late blight/LateBlt09_06.jpg,Tomato___Late_blight,Tomato___Early_blight,0.6625296473503113,427.40716299886117,False
+16,data/plantdoc/test/Tomato leaf late blight/dsc_8148cs.jpg,Tomato___Late_blight,Tomato___Late_blight,0.74897301197052,459.76781499848585,True
+17,data/plantdoc/test/Tomato leaf late blight/image.jpg,Tomato___Late_blight,Strawberry___Leaf_scorch,0.24726226925849915,425.3674329993373,False
+18,data/plantdoc/test/Tomato leaf late blight/late_blight_tomato_leaf_spore1x1200.jpg,Tomato___Late_blight,Tomato___Late_blight,0.6938727498054504,530.0662939989707,True
+19,data/plantdoc/test/Tomato leaf/1684.jpg,Tomato___healthy,Strawberry___healthy,0.8611551523208618,468.45497299909766,False
+20,data/plantdoc/test/Tomato leaf/2013-08-20-06.jpg,Tomato___healthy,Grape___Black_rot,0.30127978324890137,471.76432000014756,False
+21,data/plantdoc/test/Tomato leaf/90e2c0.jpg,Tomato___healthy,Blueberry___healthy,0.9394826889038086,554.3211750009505,False
+22,data/plantdoc/test/Tomato leaf/DSCN1015.JPG.jpg,Tomato___healthy,Strawberry___Leaf_scorch,0.6362547278404236,510.2056249997986,False
+23,data/plantdoc/test/Tomato leaf/IMG_1246.jpg,Tomato___healthy,Apple___healthy,0.5110236406326294,464.9098120007693,False
+24,data/plantdoc/test/Tomato leaf/Tomato59.JPG.jpg,Tomato___healthy,Grape___Esca_(Black_Measles),0.30397829413414,515.3154960007669,False
+25,data/plantdoc/test/Tomato leaf/Tomato_leaf.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.7544317841529846,459.9235480000061,False
+26,data/plantdoc/test/Tomato leaf/main-qimg-d9c2a93f60568485c989670d9bbf703b.jpg,Tomato___healthy,Tomato___Tomato_Yellow_Leaf_Curl_Virus,0.6134135127067566,651.696904000346,False

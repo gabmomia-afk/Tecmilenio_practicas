@@ -1,0 +1,2 @@
+Modelo,Dataset,Imagenes,Accuracy,Precision,Recall,F1-score,Latencia (ms),Predicciones otras clases
+EfficientNetV2-S,PlantDoc,27,0.5555555555555556,0.7857142857142857,0.5564814814814815,0.6511671335200747,36.51503951826911,8
